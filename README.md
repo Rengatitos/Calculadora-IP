@@ -1,6 +1,7 @@
 # Calculadora-IP
-Una calculadora cuyas funciones pueden ser: convertir IPv4/IPv6, subnetting FLSM y VLSM 
+Una calculadora con las siguientes funciones: convertir IPv4/IPv6, subnetting FLSM y VLSM 
 
+Además se podrá descargar informes con las subredes generadas y ver la topología lógica simulada con un router principal. 
 
 INTEGRANTES:
 - Leslie Jazmín Neciosup Saavedra
